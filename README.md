@@ -22,7 +22,7 @@ Starter template:
 
 :email: You can reach me at: **jesse.the.web.dev@gmail.com**
 
-:bulb: Connect with me: <a href="https://linkedin.com/in/jessegilbride" target="blank">linkedin.com/in/jessegilbride</a>
+:bulb: Connect with me: <a href="https://linkedin.com/in/jessegilbride" target="blank">linkedin.com/in/jessegilbride</a> (Please be sure to include a message.)
 
 ### Languages and Tools:
 <p>
